@@ -1,0 +1,16 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+.container{
+    text-align: center;
+}
+button{
+    background-color: aqua;
+}
+.create{
+    padding-top: 20px;
+}
+#table{
+    text-align: center;
+}
